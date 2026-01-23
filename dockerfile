@@ -14,7 +14,7 @@ RUN apt-get update \
 
 # Copy app
 COPY --from=vendor /app/vendor ./vendor
-COPY src/ ./
+COPY ./ ./
 
 # Let Render assign the port
 ENV PORT=80
