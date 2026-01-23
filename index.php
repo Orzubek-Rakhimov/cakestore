@@ -1,3 +1,2 @@
 <?php
-
-echo "Salom Orzubek";
+echo "PHP is alive @ " . date('Y-m-d H:i:s');
