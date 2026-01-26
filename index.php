@@ -1,2 +1,2 @@
 <?php
-echo "PHP is alive @ " . date('Y-m-d H:i:s');
+echo "Assalom Aleykum Bu {{ ISMINGIZ }} ning php sayti";
